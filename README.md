@@ -4,11 +4,11 @@
 
 Technologies:
 
-  Python
-  Flask
-  PostgreSQL
-  beautifulsup4
-  HTML / CSS / JS
+    Python
+    Flask
+    PostgreSQL
+    beautifulsup4
+    HTML / CSS / JS
 
 
 Simple app based on Flask and PostgreSQL.
